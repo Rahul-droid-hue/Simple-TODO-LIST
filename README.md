@@ -30,7 +30,8 @@
 
 A simple, centered todo card with a modern gradient background and intuitive controls.
 
-<img width="1912" height="1006" alt="Screenshot 2025-12-21 222126" src="https://github.com/user-attachments/assets/d1a25312-9228-46de-b946-d8c54155c759" />
+<img width="1912" height="1006" alt="Screenshot 2025-12-21 222126" src="https://github.com/user-attachments/assets/a0a9792a-502a-45b6-bf4d-d2ac3c211725" />
+
 
 📌 How to Run
 
